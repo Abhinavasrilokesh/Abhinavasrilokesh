@@ -137,6 +137,8 @@ I genuinely **love to code**, **learn fast**, and figure out how things break so
 </a>
 </p>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Let's+Connect!;Open+to+Collaborations;Always+Learning+🚀"/> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2200&pause=800&color=FFFFFF&center=true&vCenter=true&width=750&lines=☁️+Cloud+Engineer;🚀+DevOps+Enthusiast;🐳+Docker+%7C+AWS+%7C+Kubernetes;💼+Open+to+Opportunities" alt="Typing SVG" />
+</p>
 
 </div>
