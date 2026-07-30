@@ -129,7 +129,7 @@ I genuinely **love to code**, **learn fast**, and figure out how things break so
 </a>
 
 <a href="mailto:lokeshchalapathi04@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="55" alt="Gmail"/>
 </a>
 
 <a href="https://wa.me/918317501592">
