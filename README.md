@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Lokesh%20Chalapathi&fontSize=55&fontColor=000000&animation=twinkling&color=gradient"/>
+# <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Lokesh%20Chalapathi&fontSize=55&animation=twinkling&color=gradient"/>
 
 ### Aspiring DevOps Engineer &nbsp;|&nbsp; Cloud & Automation Enthusiast
 
