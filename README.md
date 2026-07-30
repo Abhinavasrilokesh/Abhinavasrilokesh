@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" width="100%"/>
 
-# Hi, I'm Lokesh Chalapathi
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Lokesh%20Chalapathi&fontSize=55&fontColor=000000&animation=twinkling&color=gradient"/>
 
 ### Aspiring DevOps Engineer &nbsp;|&nbsp; Cloud & Automation Enthusiast
 
@@ -88,6 +88,18 @@ lokesh@kakinada:~$ _
 - 📊 **Monitoring & Logging** — getting started with observability
 - 🔁 **Git Workflows** — branching strategies & version control best practices
 
+## 🚀 DevOps Journey
+
+```text
+🐧 Linux          ██████████░░ 80%
+🌱 Git            █████████░░░ 75%
+🐳 Docker         ████████░░░░ 65%
+☁️ AWS            ██████░░░░░░ 50%
+⚙️ Jenkins        █████░░░░░░░ 40%
+☸️ Kubernetes     ████░░░░░░░░ 35%
+🏗 Terraform      ███░░░░░░░░░ 30%
+```
+
 ## ✨ What I'm Into
 
 | Priority | Focus Area | What I'm Doing |
@@ -103,27 +115,30 @@ I genuinely **love to code**, **learn fast**, and figure out how things break so
 
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinavasrilokesh&theme=radical&hide_border=true"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinavasrilokesh&theme=react-dark&hide_border=true" width="90%"/>
 </p>
 
 
-## 📫 Let's Connect
+<h2 align="center">🌍 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lokesh-chalapathi/"><img src="https://img.shields.io/badge/-Lokesh%20Chalapathi-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:lokeshchalapathi04@gmail.com"><img src="https://img.shields.io/badge/-lokeshchalapathi04%40gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="tel:+918317501592"><img src="https://img.shields.io/badge/-%2B91%20831%20750%201592-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/lokesh-chalapathi/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+<a href="mailto:lokeshchalapathi04@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
+
+<a href="https://wa.me/918317501592">
+<img src="https://img.icons8.com/color/96/whatsapp--v1.png" height="55"/>
+</a>
 </p>
 
-<hr>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=000000&center=true&vCenter=true&width=550&lines=Let's+Connect!;Open+to+Collaborations;Always+Learning+🚀"/>
+</p>
 
 </div>
