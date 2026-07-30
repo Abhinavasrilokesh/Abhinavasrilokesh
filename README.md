@@ -31,7 +31,7 @@
 lokesh@kakinada:~$ cat about_me.conf
 ───────────────────────────────────────────────────────
 NAME          : Lokesh Chalapathi
-EDUCATION     : 4th Year B.Tech Student
+EDUCATION     : Final Year B.Tech Student
 COLLEGE       : Ideal Institute of Technology
 LOCATION      : Kakinada, Andhra Pradesh, India
 CURRENT FOCUS : DevOps & Cloud Automation
