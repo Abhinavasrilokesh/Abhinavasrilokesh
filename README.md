@@ -101,9 +101,7 @@ I genuinely **love to code**, **learn fast**, and figure out how things break so
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abhinavasrilokesh/Abhinavasrilokesh/output/github-contribution-grid-snake.svg" alt="contribution snake animation" width="100%"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinavasrilokesh&theme=radical&hide_border=true"/>
