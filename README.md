@@ -138,7 +138,6 @@ I genuinely **love to code**, **learn fast**, and figure out how things break so
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2200&pause=800&color=FFFFFF&center=true&vCenter=true&width=750&lines=☁️+Cloud+Engineer;🚀+DevOps+Enthusiast;🐳+Docker+%7C+AWS+%7C+Kubernetes;💼+Open+to+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=900&lines=Aspiring+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Automating+Everything...;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
-
 </div>
